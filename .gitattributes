@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Stella[[:space:]]Drift/My[[:space:]]project/Assets/Resources/Nebula[[:space:]]Skyboxes/*.exr filter=lfs diff=lfs merge=lfs -text
+Stella[[:space:]]Drift/My[[:space:]]project/Library/PackageCache/com.unit*/libburst-llvm-18.dylib filter=lfs diff=lfs merge=lfs -text
